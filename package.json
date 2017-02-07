@@ -1,0 +1,24 @@
+{
+  "name": "unexpected-weather-in-bagging-area",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dark-sky": "^1.0.10",
+    "koa": "^1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jegtnes/unexpected-weather-in-bagging-area.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jegtnes/unexpected-weather-in-bagging-area/issues"
+  },
+  "homepage": "https://github.com/jegtnes/unexpected-weather-in-bagging-area#readme"
+}
